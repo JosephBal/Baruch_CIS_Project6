@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 17 18:12:07 2023
 
-@author: Admin
+@author: Joseph Balbuena
 """
 # oranges 65875
 # converts symbol to NATO phonetic alphabet
